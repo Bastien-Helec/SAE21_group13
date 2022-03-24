@@ -1,0 +1,17 @@
+# SAE21 : Realiser le réseau d'une petite entreprise :
+
+* Comment vous synchroniser ?(brainstorming , gestion de projet)
+
+
+* Support écrit (tableau , papier ...) (surement en animation )
+****
+### * Garder la configuration pour ne pas perdre du temps 
+
+Rensignement : 
+* Qui fait quoi ? (en bloc)
+<br><br>
+Nathan : serveurs (caractéristiques cisco si finis)
+<br><br>
+Florent : GNS3, Packet tracer cisco (debut) 
+<br><br>
+Bastien : Regarder Les animations (pratiques et idée d'animations )
