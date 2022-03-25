@@ -35,7 +35,7 @@ accés au serveurs internes et externes
 ### Service Informatique :
 Gére le réseau et les serveurs (dans l'entreprise)
 Accés a toutes les machines en SSH 
-<br>
+<br><br>
 
 ### Internet :
 bloquer l'arriver d'internet vers le LAN mais le LAN doit pouvoir atteindre le serveur Web externe  
