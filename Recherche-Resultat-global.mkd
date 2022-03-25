@@ -1,0 +1,43 @@
+# Recherche et resultat des differentes section du cahier des charges : 
+
+### Switch Cisco :
+
+
+### Routeurs mikrotic : 
+
+
+### GNS3 : 
+### Cisco : 
+<br>
+
+# Cahier des charges : 
+
+## Nom : Ciscool 
+
+## Plan d'adressage :
+
+### Administritifs :
+bosse dans les locaux
+Accés au serveur interne , externe et internet  
+### Commerciaux :
+bosse dans les locaux et a l'extérieur de l'entreprise
+accés au serveurs internes et externes 
+### Service Informatique :
+Gére le réseau et les serveurs (dans l'entreprise)
+Accés a toutes les machines en SSH 
+
+### Internet :
+bloquer l'arriver d'internet vers le LAN mais le LAN doit pouvoir atteindre le serveur Web externe  
+
+### Serveur web externe : 
+page html statique dans la DMZ
+
+### Serveur DNS : 
+
+### Serveur web interne : 
+uniquement pour le LAN 
+
+### Serveur DHCP : 
+LAN 
+***
+# DHCP relay : 
