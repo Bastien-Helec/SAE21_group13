@@ -12,30 +12,48 @@
 
 # Cahier des charges : 
 
+<br>
+
 ## Nom : Ciscool 
+<br>
 
 ## Plan d'adressage :
+<br>
 
 ### Administritifs :
 bosse dans les locaux
 Accés au serveur interne , externe et internet  
+
+<br>
+
 ### Commerciaux :
 bosse dans les locaux et a l'extérieur de l'entreprise
 accés au serveurs internes et externes 
+
+<br>
+
 ### Service Informatique :
 Gére le réseau et les serveurs (dans l'entreprise)
 Accés a toutes les machines en SSH 
+<br>
 
 ### Internet :
 bloquer l'arriver d'internet vers le LAN mais le LAN doit pouvoir atteindre le serveur Web externe  
+<br>
 
 ### Serveur web externe : 
 page html statique dans la DMZ
 
-### Serveur DNS : 
+<br>
+
+s### Serveur DNS : 
+
+<br>
 
 ### Serveur web interne : 
 uniquement pour le LAN 
+
+<br>
 
 ### Serveur DHCP : 
 LAN 
