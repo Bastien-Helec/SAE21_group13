@@ -46,7 +46,7 @@ page html statique dans la DMZ
 
 <br>
 
-s### Serveur DNS : 
+### Serveur DNS : 
 
 <br>
 
