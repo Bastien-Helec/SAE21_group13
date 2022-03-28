@@ -14,11 +14,12 @@
 
 <br>
 
-## Nom : Ciscool 
+## Nom : Cischool 
 <br>
 
 ## Plan d'adressage :
 <br>
+<img src="/Schéma_exemple.png">
 
 ### Administritifs :
 bosse dans les locaux

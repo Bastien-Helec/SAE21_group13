@@ -1,0 +1,18 @@
+# Jours 3 : 
+
+### Mise en place rapide de la configuration mikrotik avec des TPs R201 : 
+
+    Export 
+
+<img src="./export.png">
+
+Plan d'adressage de la socièté par GNS3 : 
+
+
+
+
+Serveurs  Web interne (config) :
+
+Serveurs DHCP (config): 
+
+Serveurs web externe (config) :
