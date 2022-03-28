@@ -8,7 +8,9 @@
 
 Plan d'adressage de la socièté par GNS3 : 
 
+le schéma sont plan d'adressage actuelle <br>
 
+<img src="./réseau_adressage_cischool.png">
 
 
 Serveurs  Web interne (config) :
