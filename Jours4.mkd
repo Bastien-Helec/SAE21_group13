@@ -1,0 +1,10 @@
+### Jours 4 :
+
+### Aprentissage de systeme des firewall 
+
+
+### Réflexion sur les systèmes engager pour repondres au cahier des charges :
+-Vlan 
+-DHCP
+-DNS 
+
