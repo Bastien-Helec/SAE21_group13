@@ -1,0 +1,3 @@
+# Jours5 : 
+reconfiguration de la partie virtuelles , perte de configuration, non enregistrer 
+comprehension des switchs non manageable sur GNS3 

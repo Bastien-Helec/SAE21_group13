@@ -1,0 +1,9 @@
+# Jours 2 :
+
+### Mise en place du mikrotik parti physique: 
+configuration mikrotik et debut de compréhension du systemes des firewalls sur mikrotik 
+
+### Debut de la mise en place virutel : 
+configuration du routeur , 
+problèmes : salle non adapté et non configuré pour GNS3
+Solution : Exportation du projet avec les images associé sur un cloud puis importation du fichiers contenant les images et la configuration 

@@ -1,4 +1,4 @@
-# Recherche et resultat des differentes section du cahier des charges : 
+* # Recherche et resultat des differentes section du cahier des charges : 
 
 ### Switch Cisco :
 
@@ -19,7 +19,7 @@
 
 ## Plan d'adressage :
 <br>
-<img src="/Schéma_exemple.png">
+<img src="../Schéma_exemple.png">
 
 ### Administritifs :
 bosse dans les locaux
