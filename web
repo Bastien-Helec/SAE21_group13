@@ -1,0 +1,11 @@
+apt-get purge apache2
+apt-get install apache2
+cd var/www/html/
+nano index.html 
+rm -r index.html 
+nano index.html
+nano style.css
+
+
+
+commande pour faire le site 
