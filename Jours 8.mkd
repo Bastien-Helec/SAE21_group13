@@ -1,0 +1,10 @@
+### Configuration des ACLS :
+<img src="/access-listacompleter.png">
+deny permet d'empecher de communiquer avec le réseau (dernier bit a 0) <br><br>
+permit permet de communiquer avec un protocole ou un réseau 
+<br><br>
+udp est le procotole utilisé dans dhcp qui nous permet d'assigner une addresse dhcp a un pc 
+<br><br>
+icmp est le protocole utiliser dans le pings pour pouvoir communiquer avec d'autres pc.
+
+Ici les acls permettent d'interroger le service dhcp dans chaque réseau et permette seulement au SI de communiqué avec les autres Réseaux.

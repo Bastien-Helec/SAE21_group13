@@ -1,0 +1,33 @@
+# Jours 7
+
+Configuration des vlans sans ACL :
+Premiers problèmes détecter : mode trunk sur mauvais port de routeur,  
+
+<img src="/mauvais%20ports.png">
+ici le port fastethernet 1/0 etait en mode trunk , problèmes il n'y avait aucune liaison sur se port. 
+<img src="/bon_port.png">
+
+***
+### configuration des vlans pour le switch
+addressage en 3 vlan : 
+-10 pour le réseau Admnistrateur
+-20 pour le réseau Commerciaux
+-30 pour le réseau Service Informatique
+<img src="/config_switch_valn.png">
+
+***
+
+### Configuration des vlans sur le routeur
+addressage des sous-interface avec du .254
+<img src="/show%20vlans%20packet.png">
+
+***
+### Mise en place du DHCP sur le routeur avec les routeurs:
+<img src="/dhcp.png">
+
+
+***
+
+### Configuration du serveur web externe , interne :  
+Réalisation avec apache serveur pour accèder au site web  
+<img src="/Capture du 2022-04-15 09-06-25.png">
