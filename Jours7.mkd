@@ -9,7 +9,7 @@ ici le port fastethernet 1/0 etait en mode trunk , problèmes il n'y avait aucun
 
 ***
 ### configuration des vlans pour le switch
-addressage en 3 vlan : 
+addressage en 3 vlan :<br><br> 
 -10 pour le réseau Admnistrateur<br><br>
 -20 pour le réseau Commerciaux<br><br>
 -30 pour le réseau Service Informatique<br><br>
@@ -19,7 +19,7 @@ addressage en 3 vlan :
 
 ### Configuration des vlans sur le routeur
 adressage des sous-interface avec du .254
-<img src="/show vlans packet.png">
+<img src="/show_vlans_packet.png">
 
 ***
 ### Mise en place du DHCP sur le routeur avec les routeurs:
