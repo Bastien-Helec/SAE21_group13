@@ -19,7 +19,7 @@ addressage en 3 vlan :
 
 ### Configuration des vlans sur le routeur
 addressage des sous-interface avec du .254
-<img src="/show%20vlans%20packet.png">
+<img src="show%20vlans%20packet.png">
 
 ***
 ### Mise en place du DHCP sur le routeur avec les routeurs:
